@@ -14,7 +14,7 @@ public class GerenciadorTimes {
 
     public boolean adicionarTime(String nomeTime) {
         if (nomeTime == null || nomeTime.trim().isEmpty()) {
-            throw new IllegalArgumentException("Nome do time não pode ser vazio");
+            throw new IllegalArgumentException("\nNome do time não pode ser vazio");
         }
         
         String timeNormalizado = nomeTime.trim();
@@ -29,10 +29,10 @@ public class GerenciadorTimes {
 
     public boolean adicionarJogador(String nomeTime, Jogador jogador) {
         if (nomeTime == null || nomeTime.trim().isEmpty()) {
-            throw new IllegalArgumentException("Nome do time não pode ser vazio");
+            throw new IllegalArgumentException("\nNome do time não pode ser vazio");
         }
         if (jogador == null) {
-            throw new IllegalArgumentException("Jogador não pode ser nulo");
+            throw new IllegalArgumentException("\nJogador não pode ser nulo");
         }
 
         String timeNormalizado = nomeTime.trim();
