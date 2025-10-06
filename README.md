@@ -127,13 +127,13 @@ Escolha uma opção: 2
 
 --- ADICIONAR JOGADOR ---
 Nome do time: Flamengo
-Nome do jogador: Gabriel Barbosa
-Posição: Atacante
+Nome do jogador: Geórgia De Arrascaeta
+Posição: Meio-Campista
 Número de gols: 25
-Número de jogos (0 se não souber): 30
-Número de assistências (0 se não souber): 8
+Número de jogos (0 se não souber): 6
+Número de assistências (0 se não souber): 20
 
-✓ Jogador 'Gabriel Barbosa' adicionado com sucesso ao time Flamengo!
+✓ Jogador 'Giorgian De Arrascaeta' adicionado com sucesso ao time Flamengo!
 ```
 
 #### 3. Visualizar Ranking de Gols
@@ -145,7 +145,7 @@ Escolha uma opção: 6
 
 === Ranking de Gols ===
 1º - Gabriel Barbosa - Atacante (25 gols, 0.83 por jogo, 8 assist.) (Time: Flamengo)
-2º - Pedro - Atacante (20 gols, 0.67 por jogo, 5 assist.) (Time: Flamengo)
+2º - Pedro - Atacante (20 gols, 0.67 por jogo, 5 assist.) (Time: Cruzeiro)
 ```
 
 #### 4. Estatísticas Gerais
@@ -241,7 +241,7 @@ NomeDoTime;NomeJogador;Posicao;Gols;Jogos;Assistencias
 
 **Exemplo:**
 ```
-Flamengo;Gabriel Barbosa;Atacante;25;30;8
+Cruzeiro;Gabriel Barbosa;Atacante;25;30;8
 Flamengo;Pedro;Atacante;20;28;5
 ```
 
