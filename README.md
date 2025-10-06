@@ -127,7 +127,7 @@ Escolha uma opção: 2
 
 --- ADICIONAR JOGADOR ---
 Nome do time: Flamengo
-Nome do jogador: Geórgia De Arrascaeta
+Nome do jogador: Giorgian De Arrascaeta
 Posição: Meio-Campista
 Número de gols: 25
 Número de jogos (0 se não souber): 6
@@ -144,7 +144,7 @@ Escolha uma opção: 6
 --- RANKING DE GOLS ---
 
 === Ranking de Gols ===
-1º - Gabriel Barbosa - Atacante (25 gols, 0.83 por jogo, 8 assist.) (Time: Flamengo)
+1º - Gabriel Barbosa - Atacante (25 gols, 0.83 por jogo, 8 assist.) (Time: Cruzeiro)
 2º - Pedro - Atacante (20 gols, 0.67 por jogo, 5 assist.) (Time: Cruzeiro)
 ```
 
